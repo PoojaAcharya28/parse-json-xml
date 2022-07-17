@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="" ?>
+
+<resource>
+    <city>
+        <city-name>mangalore</city-name>
+        <longitude>78</longitude>
+        <latitude>78</latitude>
+        <temperature>30</temperature>
+        <humidity>80%</humidity>
+    </city>
+</resource>

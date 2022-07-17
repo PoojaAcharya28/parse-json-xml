@@ -1,0 +1,9 @@
+{
+  "city":{
+  "city-name" : "bangalore",
+  "longitude" : "52",
+  "latitude" : "30",
+  "temperature" : "28",
+  "humidity" : "88%"
+}
+}
